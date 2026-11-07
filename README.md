@@ -1,16 +1,84 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+# Personal Portfolio Website
 
-Currently, two official plugins are available:
+A personal portfolio website developed using React to showcase my projects, technical skills, education, and journey as a developer.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## About
 
-## React Compiler
+This portfolio serves as a central place to present my development work, highlight my technical skills, and provide information about my background.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Features
 
-## Expanding the Oxlint configuration
+- Personal introduction
+- About me section
+- Technical skills showcase
+- Projects showcase
+- Education details
+- Contact information
+- Responsive user interface
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## Technologies Used
+
+- React
+- JavaScript
+- HTML
+- CSS
+
+## Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone YOUR_GITHUB_REPOSITORY_URL
+```
+
+### 2. Navigate to the project directory
+
+```bash
+cd personal-portfolio
+```
+
+### 3. Install dependencies
+
+```bash
+npm install
+```
+
+### 4. Start the development server
+
+```bash
+npm run dev
+```
+
+If your project uses Create React App instead of Vite, use:
+
+```bash
+npm start
+```
+
+## Project Structure
+
+```text
+personal-portfolio/
+├── public/
+├── src/
+│   ├── components/
+│   ├── App.js
+│   └── index.js
+├── package.json
+└── README.md
+```
+
+*The structure above is illustrative. Update it to match your actual project files.*
+
+## Live Demo
+
+Add your deployed portfolio link here.
+
+## Author
+
+Your Name
+
+## License
+
+This project is available for learning and personal portfolio purposes.
