@@ -69,13 +69,6 @@ personal-portfolio/
 └── README.md
 ```
 
-*The structure above is illustrative. Update it to match your actual project files.*
-
-## Live Demo
-
-Add your deployed portfolio link here.
-
-## Author
 
 Your Name
 
