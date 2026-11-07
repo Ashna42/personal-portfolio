@@ -70,8 +70,6 @@ personal-portfolio/
 ```
 
 
-Your Name
-
 ## License
 
 This project is available for learning and personal portfolio purposes.
